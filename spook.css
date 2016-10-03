@@ -1,0 +1,26 @@
+body {
+  background-color: black;
+}
+h1 {
+  color: orange;
+}
+p {
+color: orange;
+}
+li {
+  color: orange:
+}
+.nav-tab {
+  background-color: black;
+  border-style: solid;
+}
+.navigation {
+  text-decoration: none;
+  color: blue
+}
+.nav-tab:hover {
+  background-color: none;
+}
+p {
+      font-family: "Georgia", Georgia, Serif;
+  }
